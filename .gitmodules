@@ -1,0 +1,3 @@
+[submodule "fundamerica"]
+	path = fundamerica
+	url = https://github.com/tmcpro/fundamerica.git
